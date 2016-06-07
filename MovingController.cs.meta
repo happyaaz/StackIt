@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6369460b71ccc804d9a5cd632f7b7a02
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Swosh: {instanceID: 0}
+  - MoveBump: {instanceID: 0}
+  - CantMove: {instanceID: 0}
+  - aTexture: {fileID: 2800000, guid: bc707ca8894d85549a7e789c46785e13, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
